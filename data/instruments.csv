@@ -1,0 +1,22 @@
+instrument_id,ticker,name,asset_class,sector,region
+1,NXLF,Nexalift,equity,Technology,Europe
+2,VELD,Veld Semiconductor,equity,Technology,Europe
+3,ORBN,Orbin Software,equity,Technology,United States
+4,KITE,Kite Cloud,equity,Technology,United States
+5,HALD,Hald Industrial,equity,Industrials,Europe
+6,BRUK,Bruk Engineering,equity,Industrials,Europe
+7,MERO,Mero Logistics,equity,Industrials,United States
+8,FENN,Fenn Bank,equity,Financials,Europe
+9,ALBA,Alba Insurance,equity,Financials,Europe
+10,CORT,Cort Capital,equity,Financials,United States
+11,LIRA,Lira Health,equity,Health Care,Europe
+12,NUVA,Nuva Pharma,equity,Health Care,United States
+13,SELA,Sela Medtech,equity,Health Care,Europe
+14,PINE,Pine Energy,equity,Energy,Europe
+15,DUNE,Dune Resources,equity,Energy,United States
+16,WEUR,World Equity ETF,etf,Diversified,Global
+17,EEUR,Europe Equity ETF,etf,Diversified,Europe
+18,EMKT,Emerging Markets ETF,etf,Diversified,Emerging
+19,BAGG,Euro Aggregate Bond ETF,etf,Fixed Income,Europe
+20,BUND,Euro Government Bond,bond,Fixed Income,Europe
+21,CORP,Euro Corporate Bond,bond,Fixed Income,Europe

@@ -1,0 +1,3 @@
+# This project uses the Python 3.10+ standard library only.
+# SQLite is used through the built-in sqlite3 module.
+# No pip install is required.
